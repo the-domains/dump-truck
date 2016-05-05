@@ -1,0 +1,28 @@
+name: Dump Truck
+favicon: null
+layout_spectrum: 0.624269159277901
+typography_spectrum: 0.6845868122763932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.24959904537536204
+  lightness: 0.2602085468824953
+  saturation: 0.6212572457734495
+  rhythmicContrast: 0.14306088420562446
+purpose: []
